@@ -1,0 +1,9 @@
+{
+  "solution": {
+    "path": "loggings.sln",
+    "projects": [
+      "game\\game.vcxproj",
+      "game\\gfc\\gfc.vcxproj"
+    ]
+  }
+}
